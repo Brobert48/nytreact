@@ -5,7 +5,7 @@ import "./FavBtn.css";
 // That way we don't have to define them all individually
 const FavBtn = props => (
   <span className="fav-btn" {...props}>
-    []
+    [SAVE]
   </span>
 );
 
